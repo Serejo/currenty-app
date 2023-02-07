@@ -15,8 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o repositório e acesse a pasta.
 
 ```bash
-$ git clone https://github.com/Serejo/currency-app
-$ cd currency-app
+$ git clone https://github.com/Serejo/currenty-app
+$ cd currenty-app
 ```
 
 Para iniciá-lo, siga os passos abaixo:
