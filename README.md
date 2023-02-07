@@ -1,31 +1,30 @@
-# currency-app
+## 💻 Projeto
 
-Esse projeto é um estudo de Vue 3 usando a AwesomeAPI para trazer dados da cotação das moedas.
+Esse projeto é um estudo de Vue3, componentização, props e watch de variáveis. O sistema é um simples projeto para trazer dados da cotação das moedas. Separar as moedas desejadas em uma nova tabela o qual fará um refresh dos dados em 30 segundos.
 
-## Project setup
+## 🧪 Tecnologias
 
-```
-npm install
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Compiles and hot-reloads for development
+- Vue 3
+- Axios
+- Spectre.Css
 
-```
-npm run serve
-```
+## 🚀 Como executar
 
-### Compiles and minifies for production
+Clone o repositório e acesse a pasta.
 
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
+```bash
+$ git clone https://github.com/Serejo/currency-app
+$ cd currency-app
 ```
 
-### Customize configuration
+Para iniciá-lo, siga os passos abaixo:
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```bash
+# Instalar as dependências
+$ npm install
+
+# Iniciar o projeto
+$ npm run serve
+```
